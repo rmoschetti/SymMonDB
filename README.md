@@ -19,4 +19,4 @@ deg4_var2_len2 = {
 }
 ```
 
-This was originally computed for experimenting with https://arxiv.org/abs/2406.14321, in collaboration with M. Graffeo, A. Ricolfi and S. Monavari
+This was originally computed for experimenting with https://arxiv.org/abs/2406.14321, in collaboration with M. Graffeo, S. Monavari and A. Ricolfi
