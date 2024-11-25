@@ -17,3 +17,6 @@ deg4_var2_len2 = {
     ((4, 0), (0, 4)): 1,
     ((1, 3), (3, 1)): 1,
 }
+```
+
+This was originally computed for experimenting with https://arxiv.org/abs/2406.14321, in collaboration with M. Graffeo, A. Ricolfi and S. Monavari
